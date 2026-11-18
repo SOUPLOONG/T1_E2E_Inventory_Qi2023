@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# matplotlib 字体缓存（本机产物）
+.mpl_cache/
+.mplcache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 本机运行产物
+*.log
+*.err
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
